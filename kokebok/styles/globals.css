@@ -20,13 +20,15 @@ h2{
   color:rgb(45, 190, 190)
 }
 h3 {
-  color: #e98074
+  color: #d4e91d
 }
-
+h4 {
+  color:blueviolet
+}
 
 p {
   font-size: 18px;  
-  color: #775635;
+  color: #b11328;
   margin-top: 0;
 }
 
